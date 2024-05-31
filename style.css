@@ -50,3 +50,13 @@ a:visited {
   position: absolute;
   margin: auto;
 }
+
+/* Featured image */
+
+.feature {
+  display: flex;
+  max-width: 50%;
+  height: auto;
+  margin: auto;
+  padding: 2%;
+}
