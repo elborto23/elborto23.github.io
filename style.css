@@ -62,3 +62,25 @@ a:visited {
   margin: auto;
   padding: 2%;
 }
+
+/*Breakpoint 549px*/
+
+@media only screen and (max-width: 549px) {
+  body {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  ul {
+    font-size: .8rem;
+  }
+
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+
+  h2 {
+    font-size: .8rem;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;}}
