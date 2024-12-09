@@ -70,9 +70,7 @@ a:visited {
     margin-left: 10%;
     margin-right: 10%;
   }
-  ul {
-    font-size: .8rem;
-  }
+  
 
   h1 {
     font-size: 36px;
@@ -80,7 +78,7 @@ a:visited {
   }
 
   h2 {
-    font-size: .8rem;
+    font-size: 1rem;
     position: relative;
     margin-top: 0px;
     margin-bottom: 0px;}}
